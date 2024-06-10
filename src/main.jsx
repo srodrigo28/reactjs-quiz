@@ -6,9 +6,7 @@ import './index.css'
 import { QuizProvider } from './context/quiz.jsx'
 
 ReactDOM.createRoot(document.getElementById('root')).render(
-  <React.StrictMode>
     <QuizProvider>
       <App />
     </QuizProvider>
-  </React.StrictMode>,
 )
