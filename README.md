@@ -8,6 +8,7 @@
 * useState
 * useEfect
 * useContext
+* Edit
 
 ```
 * https://github.com/matheusbattisti/quiz_react/tree/main
